@@ -141,4 +141,9 @@ I am passionate about building, learning, and experimenting with code. My intere
 
 ##### 📈 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=niidaemon&show_icons=true&locale=en" alt="niidaemon" style="max-width:100%; height:auto;" />
+| GitHub Stats | Top Languages |
+|--------------|---------------|
+| <img src="https://github-readme-stats.vercel.app/api?username=niidaemon&show_icons=true&locale=en" alt="niidaemon" style="max-width:100%; height:auto;" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niidaemon&show_icons=true&locale=en&layout=compact" alt="niidaemon" style="max-width:100%; height:auto;" /> |
+
+
+---
